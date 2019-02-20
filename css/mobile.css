@@ -1,0 +1,26 @@
+@media only screen and (max-width: 600px) {
+        #main-main section .row {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+  
+    
+    #graph1 {
+        width: 100%;
+    }
+    
+     #graph2 {
+        width: 100%;
+    }
+    
+     #graph3 {
+        width: 100%;
+    }
+    
+     #graph4 {
+        width: 100%;
+    }
+}
